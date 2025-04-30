@@ -1,0 +1,24 @@
+# Виртуальное окружение
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+*.env
+
+# Локальные настройки Django
+*.sqlite3
+media/
+staticfiles/
+*.log
+
+# Временные файлы
+*.bak
+*.swp
+*~
+
+# VS Code
+.vscode/
